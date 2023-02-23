@@ -4,7 +4,7 @@ A producer / consumer program written in C++ to create and check that a tree is 
 
 [![Run on Repl.it](https://replit.com/badge)](https://replit.com/@oneminch/producer-consumer?v=1#Sequential.cpp)
 
-Locally, (on a Linux system) run either of the following:
+Locally, (on a Linux environment) run either of the following:
 
 **Sequential**
 
